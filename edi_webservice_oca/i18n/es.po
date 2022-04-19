@@ -1,0 +1,33 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* edi_webservice_oca
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-19 16:16+0000\n"
+"PO-Revision-Date: 2022-04-19 18:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es\n"
+"X-Generator: Poedit 3.0\n"
+
+#. module: edi_webservice_oca
+#: model:ir.model,name:edi_webservice_oca.model_edi_backend
+msgid "EDI Backend"
+msgstr "EDI Backend"
+
+#. module: edi_webservice_oca
+#: model_terms:ir.ui.view,arch_db:edi_webservice_oca.edi_backend_view_form
+msgid "Webservice"
+msgstr "Servicio web"
+
+#. module: edi_webservice_oca
+#: model:ir.model.fields,field_description:edi_webservice_oca.field_edi_backend__webservice_backend_id
+msgid "Webservice Backend"
+msgstr "Back-end de WebService"
